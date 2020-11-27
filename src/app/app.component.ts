@@ -33,7 +33,7 @@ export class AppComponent implements OnInit {
       icon: 'water'
     },
     {
-      title: 'Cor Led',
+      title: 'Led/Buzzer',
       url: '/cor-led',
       icon: 'bulb'
     }
